@@ -125,7 +125,7 @@ To get a local copy up and running follow these simple example steps.
 Open terminal in the folder you want to get the project.
  clone
   ```sh
-  git clone https://github.com/othneildrew/Best-README-Template.git
+  git clone https://github.com/othneildrew/coinwrap.git
   ```
 <!-- PROJECT SHIELDS
 ### How run this project?
@@ -176,7 +176,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] English
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/othneildrew/coinwrap/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -227,7 +227,7 @@ Project Link: [https://github.com/javiergcw/coinwrap](https://github.com/javierg
 
 Many thanks to these individuals, programs, companies for providing direct and indirect support!
 
-* [Template readme](https://github.com/othneildrew/Best-README-Template)
+* [Template readme](https://github.com/othneildrew/coinwrap)
 
 <!--
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -244,16 +244,16 @@ Many thanks to these individuals, programs, companies for providing direct and i
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/coinwrap.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/coinwrap/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/coinwrap.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/coinwrap/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/coinwrap.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/coinwrap/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/coinwrap.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/coinwrap/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/coinwrap.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/coinwrap/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: src/assets/header.png
